@@ -19,3 +19,9 @@ Make sure your server meets the requirements:
 - Apache
 - MySQL
 - MOD_REWRITE enable.
+
+
+# Setup & Assumptions:
+
+- The setup guide regarding the system are mentioned in <a href="https://github.com/saumil122/urlShorten/blob/master/SETUP.md">setup.md</a>
+- The assumptions regarding the system are mentioned in <a href="https://github.com/saumil122/urlShorten/blob/master/ASSUMPTIONS.md">assumption.md</a>
