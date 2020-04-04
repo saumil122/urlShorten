@@ -1,0 +1,74 @@
+body{
+    margin:0;
+    padding:0;
+    font-family: monospace;
+    color:#8c8c8c;
+    font-size: 16px;
+    line-height: normal;
+}
+
+.alignLeft{
+    text-align: left;
+}
+.alignCenter{
+    text-align: center;
+}
+.alignRight{
+    text-align: right;
+}
+
+.hide{
+    display: none;
+}
+
+.headingWrapper{
+    padding:30px 15px;
+}
+h1{
+    margin: 0;
+    font-size: 48px;
+    line-height: normal;
+}
+p{
+    margin:0 0 30px;
+}
+.formWrapper{
+    padding:30px 15px; 
+}
+.fieldWrapper{
+    position: relative;
+    display: inline-block;
+    width: 100%;
+    max-width: 450px;
+    padding: 0 85px 0 15px;
+    border: 1px solid #8c8c8c;
+    border-radius: 5px;
+    -webkit-box-shadow: 1px 1px 1px 0px rgba(140, 140, 140, 1);
+    box-shadow: 1px 1px 1px 0px rgba(140, 140, 140, 1);
+}
+.fieldWrapper input[type="text"]{
+    border: none;
+    padding: 12px 0px;
+    font-size: 16px;
+    line-height: normal;
+    width: 100%;
+    color:#8c8c8c;
+    outline: none;
+}
+.fieldWrapper #generateURL{
+    position:absolute;
+    top:0;
+    right:-1px;
+    background-color:#8c8c8c;
+    border: 1px solid #8c8c8c;
+    border-radius: 5px;
+    font-size: 16px;
+    line-height: normal;
+    color: #fff;
+    padding: 12px 15px;
+    outline: none;
+}
+
+#generateShortURL{
+    margin:30px 0 0;
+}
