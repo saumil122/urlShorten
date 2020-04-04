@@ -1,12 +1,10 @@
-# urlShorten
-
-Objective:
+# Objective:
 
 At many organisation, the marketing department often find themselves using long URLs with utm tracking.
 These URLs often travel in emails and getting copied over sheets and docs, thereby are at risk of getting ruined by formatters.
 The Objective of the project is to design and implement a url shortening system which would allow us to overcome these problems primarily.
    
-Benefits:
+# Benefits:
 
 - There is no restriction to URL length.
 - The query parameters are not ignored.
@@ -16,7 +14,7 @@ Benefits:
 - If TRACK_URL is set to "TRUE", the referral/hit count will be updated against the URL.
 - If TRACK_URL is set to "FALSE", the short URL will be used only one time.
 
-Installation:
+# Prerequisite:
 
 1. Make sure your server meets the requirements:
     a) Optionally you can run this from your current domain or find a short domain
