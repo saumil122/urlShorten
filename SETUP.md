@@ -1,4 +1,4 @@
-Setup Guidline:
+# Setup Guidline:
 
 A. Make sure your server meets the requirements: 
 - Optionally you can run this from your current domain or find a short domain
